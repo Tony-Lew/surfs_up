@@ -6,6 +6,7 @@ The purpose of this analysis is to help us sell the Idea of opening a surf and i
 
 ## Results
 What my analysis showed is that in the month of June the average temperature on Oahu is the mid 70’s and the average temperature in December is the low 70’s. Sure the temperature is 4-5 degrees cooler in the winter but what that means is the weather is always nice enough for some ice cream and surfing. 
+
 ![June temps table](https://user-images.githubusercontent.com/100821974/168487696-07b4e502-79fe-4ac3-9f40-c7bddbd52ebb.png)
 ![Dec temps table](https://user-images.githubusercontent.com/100821974/168487703-a30fdc79-9b8b-4338-ba3f-4bbf5efc3525.png)
 
